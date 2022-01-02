@@ -1,3 +1,14 @@
+
+<img width="1051" alt="スクリーンショット 2022-01-02 17 31 03" src="https://user-images.githubusercontent.com/3797539/147871683-36640d1a-5cc0-4642-baea-e238782cfe86.png">
+<img width="1051" alt="スクリーンショット 2022-01-02 18 21 25" src="https://user-images.githubusercontent.com/3797539/147871686-79bdecb2-1d23-4653-a5a9-d6e2426c7133.png">
+<img width="1051" alt="スクリーンショット 2022-01-02 18 21 51" src="https://user-images.githubusercontent.com/3797539/147871687-da919f27-e399-43e0-b43c-2c0ee8e6973c.png">
+<img width="1051" alt="スクリーンショット 2022-01-02 18 22 11" src="https://user-images.githubusercontent.com/3797539/147871689-ec0ab346-1130-4371-8243-7de198472f15.png">
+<img width="1051" alt="スクリーンショット 2022-01-02 18 22 12" src="https://user-images.githubusercontent.com/3797539/147871690-43f43317-d177-4f5f-97d3-4b0c54540a7a.png">
+<img width="1051" alt="スクリーンショット 2022-01-02 18 22 19" src="https://user-images.githubusercontent.com/3797539/147871691-5f29dcf4-57ca-49aa-8d1a-4f1535c3fd1d.png">
+<img width="1051" alt="スクリーンショット 2022-01-02 18 22 22" src="https://user-images.githubusercontent.com/3797539/147871693-54bdc162-6608-4901-92dd-02fc278fd0e3.png">
+<img width="1051" alt="スクリーンショット 2022-01-02 18 22 53" src="https://user-images.githubusercontent.com/3797539/147871694-b56f9712-d230-4f5e-aabf-f649afcd1d20.png">
+
+
 ## Project setup : 
 #### ・Nextjs
 #### ・TypeScript
