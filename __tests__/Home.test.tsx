@@ -5,5 +5,5 @@ import Home from '../pages'
 
 it('should render title text', () => {
   render(<Home />)
-  expect(screen.getByText('Next.js!')).toBeInTheDocument()
+  expect(screen.getByText('Next.js + GraphQL')).toBeInTheDocument()
 })
