@@ -21,6 +21,26 @@
     - 通信が終わるまでの間に前回までのCacheを表示　`する`
 
 
+<img width="1552" alt="スクリーンショット 2022-01-03 17 13 14" src="https://user-images.githubusercontent.com/3797539/147910844-feaa1f0b-9d27-4ba4-be6f-5266b0eaf22b.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 14 28" src="https://user-images.githubusercontent.com/3797539/147910855-446a050f-be26-4af1-aba6-6f9831836460.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 14 45" src="https://user-images.githubusercontent.com/3797539/147910857-e6510799-5688-4603-81db-23765eaeb84d.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 14 49" src="https://user-images.githubusercontent.com/3797539/147910860-fbdb382b-45b3-4f10-8ebf-e0192a976ac3.png">
+
+<img width="1373" alt="147910882-4fabed27-6d4c-4a19-9c5c-0b743d694e32" src="https://user-images.githubusercontent.com/3797539/147911286-2f16961d-2f2e-41d8-a076-59c33f545012.png">
+
+
+<img width="1552" alt="スクリーンショット 2022-01-03 17 15 28" src="https://user-images.githubusercontent.com/3797539/147910942-7f8279cf-dc35-44ec-b78c-88451a1ae612.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 15 44" src="https://user-images.githubusercontent.com/3797539/147910945-f5fa0952-e9cc-4079-8053-3e84ec5674bc.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 15 49" src="https://user-images.githubusercontent.com/3797539/147910947-9352222b-607b-4d09-b851-84b0488977ca.png">
+<img width="1422" alt="スクリーンショット 2022-01-03 17 16 21" src="https://user-images.githubusercontent.com/3797539/147911047-8fd171e3-3be4-4271-b57a-5767ad55ff09.png">
+
+<img width="1552" alt="スクリーンショット 2022-01-03 17 16 28" src="https://user-images.githubusercontent.com/3797539/147911078-587a5f94-0713-4a40-a6c9-571a72632049.png">
+
+<img width="1423" alt="スクリーンショット 2022-01-03 17 16 42" src="https://user-images.githubusercontent.com/3797539/147911118-e6016b27-a0b1-4922-9dae-c70501f9c9b8.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 17 20" src="https://user-images.githubusercontent.com/3797539/147911155-4e375cf5-63b5-4b53-a2d8-9781997400de.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 18 42" src="https://user-images.githubusercontent.com/3797539/147911158-3d6aed92-92ee-4e18-84b0-b94639504caa.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 17 18 49" src="https://user-images.githubusercontent.com/3797539/147911162-afacab4f-7ca4-4285-add3-0ad54c373510.png">
+
 
 ## Project setup : 
 #### ・Nextjs
