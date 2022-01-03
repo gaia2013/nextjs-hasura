@@ -14,6 +14,7 @@ import {
 } from '../types/generated/graphql'
 import { Layout } from '../components/Layout'
 import { UserItem } from '../components/UserItem'
+
 const HasuraCRUD: VFC = () => {
   const [editedUser, setEditedUser] = useState({ id: '', name: '' })
   const { data, error } = useQuery<GetUsersQuery>(GET_USERS, {
