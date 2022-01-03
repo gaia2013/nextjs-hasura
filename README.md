@@ -13,6 +13,13 @@
 ↓Nextリンクの遷移先　Cache利用
 <img width="1552" alt="スクリーンショット 2022-01-03 11 28 05" src="https://user-images.githubusercontent.com/3797539/147896086-6e313a2e-5d59-4436-9109-1f28c9ed5c7f.png">
 
+- cache-first: graphql -(next)> cache fetch
+- no-cache: graphql -(next)> no fetch
+- network-only: graphql -(next)> graphql fetch
+    - 通信が終わるまでの間に前回までのCacheを表示　`しない`
+- cache-and-network graphql -(next)> graphql fetch
+    - 通信が終わるまでの間に前回までのCacheを表示　`する`
+
 
 
 ## Project setup : 
