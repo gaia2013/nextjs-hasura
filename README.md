@@ -7,6 +7,9 @@
 <img width="1051" alt="スクリーンショット 2022-01-02 18 22 19" src="https://user-images.githubusercontent.com/3797539/147871691-5f29dcf4-57ca-49aa-8d1a-4f1535c3fd1d.png">
 <img width="1051" alt="スクリーンショット 2022-01-02 18 22 22" src="https://user-images.githubusercontent.com/3797539/147871693-54bdc162-6608-4901-92dd-02fc278fd0e3.png">
 <img width="1051" alt="スクリーンショット 2022-01-02 18 22 53" src="https://user-images.githubusercontent.com/3797539/147871694-b56f9712-d230-4f5e-aabf-f649afcd1d20.png">
+<img width="1051" alt="スクリーンショット 2022-01-03 10 55 39" src="https://user-images.githubusercontent.com/3797539/147895303-d1889040-58a5-4602-9ec0-b3fc99cf54e0.png">
+<img width="1422" alt="スクリーンショット 2022-01-03 10 58 47" src="https://user-images.githubusercontent.com/3797539/147895306-03e94903-582e-435f-8c52-017f1396cd21.png">
+
 
 
 ## Project setup : 
