@@ -9,6 +9,9 @@
 <img width="1051" alt="スクリーンショット 2022-01-02 18 22 53" src="https://user-images.githubusercontent.com/3797539/147871694-b56f9712-d230-4f5e-aabf-f649afcd1d20.png">
 <img width="1051" alt="スクリーンショット 2022-01-03 10 55 39" src="https://user-images.githubusercontent.com/3797539/147895303-d1889040-58a5-4602-9ec0-b3fc99cf54e0.png">
 <img width="1422" alt="スクリーンショット 2022-01-03 10 58 47" src="https://user-images.githubusercontent.com/3797539/147895306-03e94903-582e-435f-8c52-017f1396cd21.png">
+<img width="1552" alt="スクリーンショット 2022-01-03 11 28 05" src="https://user-images.githubusercontent.com/3797539/147896086-6e313a2e-5d59-4436-9109-1f28c9ed5c7f.png">
+↓Nextリンクの遷移先　Cache利用
+<img width="1552" alt="スクリーンショット 2022-01-03 11 28 05" src="https://user-images.githubusercontent.com/3797539/147896086-6e313a2e-5d59-4436-9109-1f28c9ed5c7f.png">
 
 
 
